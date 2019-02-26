@@ -1,0 +1,1 @@
+import manageFiles from './js/managefiles.js'

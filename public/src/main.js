@@ -1,0 +1,10 @@
+import 'jquery-ui/ui/widgets/draggable.js';
+import 'jquery-ui/ui/widgets/droppable.js';
+import 'jquery-ui/ui/widgets/sortable.js';
+import 'jquery-ui/ui/widgets/resizable.js';
+import 'bootstrap';
+import 'quill/themes/snow.js';
+import 'quill/quill.js';
+import './js/farbtastic.js';
+import './js/test.js';
+import './js/init.js';
